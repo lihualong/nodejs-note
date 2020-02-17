@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+</head>
+<body>
+<button id="button">get</button>
+<script>
+    document.getElementById('button').onclick=function () {
+      axios.get('/api/users') // 做了代理
+      axios.get('/api/login') // 做了代理但不存在login
+    }
+</script>
+</body>
+</html>
