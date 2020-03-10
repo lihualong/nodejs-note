@@ -1,0 +1,7 @@
+https://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498226&idx=1&sn=2375b844980d03f02ca9d744d7793f15&chksm=80f1af3ab786262ccdb568ab17c5bc2e9b938f4dd8432c819b1e6c9a299bfe02b4ea898a1277&mpshare=1&scene=1&srcid=&sharer_sharetime=1582618948796&sharer_shareid=c0a3edbfb7f33682ca29c3c7d0b9a892&key=7f86e63b4c8d33db888904cf55e805e62c2302f81d9a66986fd110201e2086aed7ee4d4d2aeed0bc5055858ec4dc38d0933588f0b7baf2f8f5324d081458745f8cf152402d2a1fa1819fc76bf7518a96&ascene=1&uin=ODg2Mzk2ODA%3D&devicetype=Windows+8.1&version=62080079&lang=zh_CN&exportkey=AXdL9uMHpOdJCfefPmr9HMc%3D&pass_ticket=IrpBd7GUhEVQ6hgc86A6DRZonrwYoR39kTLFi7KIuq0%3D
+
+
+https://github.com/xiaozhu188/electron-vue-cloud-music
+
+
+https://github.com/SmallRuralDog/electron-vue-music
